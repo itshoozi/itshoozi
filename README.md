@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![itsHoozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itshoozi&show_icons=true&theme=radical)
+![itsHoozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itshoozi&show_icons=true&theme=merko)
 
 <!--
 **itshoozi/itshoozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
